@@ -17,3 +17,7 @@
 
   - If Potholes exceeds 100, send alert
   - If illegal dumping exceeds 30, send alert
+
+### Final Product
+
+![image](https://github.com/H3c7o4/Notification_system_with_boto3/images/finalproduct.png)
